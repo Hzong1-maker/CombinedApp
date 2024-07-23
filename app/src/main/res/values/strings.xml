@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CombinedApp</string>
+    <string name="button_fruit_selector">Go to Fruit Selector</string>
+    <string name="button_currency_converter">Go to Currency Converter</string>
+    <string name="fruit_selector">Fruit Selector</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="received_data">Received data: </string>
+</resources>
